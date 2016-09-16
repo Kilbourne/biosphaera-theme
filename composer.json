@@ -38,7 +38,11 @@
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.6.1",
     "oscarotero/env": "^1.0",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "1.0.0",    
+    "wpackagist-plugin/woocommerce": "2.6.4",
+    "wpackagist-plugin/polylang": "2.0.4",
+    "roots/soil": "^3.7",
+    "wpackagist-plugin/disable-comments": "1.5.2"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
